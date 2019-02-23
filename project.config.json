@@ -1,0 +1,13 @@
+{
+  "description": "wepy 微信小程序 ui组件库",
+  "setting": {
+    "urlCheck": true,
+    "es6": false,
+    "postcss": false,
+    "minified": false
+  },
+  "compileType": "miniprogram",
+  "appid": "wx6883d65f70fecd8a",
+  "projectname": "wepy-ui",
+  "miniprogramRoot": "./dist"
+}
